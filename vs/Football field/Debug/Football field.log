@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\u\Downloads\CG_Codes\CG_Demos\vs\Football field\Main.cpp(95,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\u\Downloads\CG_Codes\CG_Demos\vs\Football field\Main.cpp(100,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Football field.vcxproj -> C:\Users\u\Downloads\CG_Codes\CG_Demos\vs\Debug\Football field.exe
